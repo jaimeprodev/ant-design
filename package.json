@@ -305,7 +305,7 @@
     "tsx": "^3.12.8",
     "typedoc": "^0.25.0",
     "typescript": "~5.2.2",
-    "vanilla-jsoneditor": "^0.18.0",
+    "vanilla-jsoneditor": "^0.21.1",
     "webpack-bundle-analyzer": "^4.1.0",
     "xhr-mock": "^2.4.1"
   },
